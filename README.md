@@ -2,4 +2,4 @@
 
 Découvrons ensemble l'injection de dépendance de Spring
 
-Pour plus d'info: http://www.la-pause-dev.fr/archives/139
+Pour plus d'info: http://www.la-pause-dev.fr/page.html?page=206
